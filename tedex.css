@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tedex-logo {
+  width: 200px;
+  height: 135px;
+  margin-left:100px;
+}
+
+#navItem1 {
+  color: #323f4b;
+  font-family: "Lucida Console";
+  font-weight:bold;
+  font-size:25px;
+  margin-right:10px;
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Lucida Console";
+  font-weight:bold;
+  font-size:25px;
+  margin-right:10px;
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Lucida Console";
+  font-weight:bold;
+  font-size:25px;
+  margin-right:10px;
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Lucida Console";
+  font-weight:bold;
+  font-size:25px;
+  margin-right:10px;
+}
+#navItem5 {
+  color: #323f4b;
+  font-family: "Lucida Console";
+  font-weight:bold;
+  font-size:25px;
+  margin-right:10px;
+}
+.banner-section-bg-container {
+  background-image:url("https://i.pinimg.com/originals/0f/ac/58/0fac58e33e03a2708d168790c6a7bb36.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.custom-button {
+  color: white;
+  background-image: linear-gradient(#d0b200, #a58d00);
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.custom-outline-button {
+  color: #d0b200;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d0b200;
+  border-radius: 8px;
+}
+
+.tedex-section {
+  background-image:url("https://cdn.dribbble.com/users/408973/screenshots/8813162/dribbble_tedx.png?compress=1&resize=400x300");
+  background-size:cover;
+}
+.tedex-section-heading {
+  color: black;
+  font-family: "Roboto";
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom:30px;
+}
+.tedex-section-description {
+  color: black;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+.footer-section {
+    background-image:url("https://t3.ftcdn.net/jpg/03/97/68/08/240_F_397680804_3Nc49iJdfNPNVWTH5f7l4FMkBxvOJVCC.jpg");
+    background-size:cover;
+  }
+
+.logo{
+    height:180px;
+    width:500px;
+}
